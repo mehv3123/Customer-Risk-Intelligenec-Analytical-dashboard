@@ -261,12 +261,12 @@ The analysis clearly shows that payment failures, low customer tenure, and high 
 
 By enabling real-time monitoring and interactive exploration through slicers and dynamic visuals, this dashboard empowers decision-makers to:
 
-Reduce customer churn through targeted interventions
+1.Reduce customer churn through targeted interventions
 
-Strengthen fraud prevention strategies
+2.Strengthen fraud prevention strategies
 
-Prioritize high-risk channels and locations
+3.Prioritize high-risk channels and locations
 
-Improve the organization’s overall risk management framework
+4.Improve the organization’s overall risk management framework
 
 Overall, the dashboard transforms raw synthetic data into actionable intelligence, offering a scalable foundation for future enhancements such as predictive churn modelling, anomaly detection, and automated fraud alerts.
